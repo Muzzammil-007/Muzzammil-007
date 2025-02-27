@@ -8,23 +8,23 @@ I’m a recent B.S. Computer Science grad from FAST-NU (2024) and an Associate B
 
 ## 🚀 Featured Projects
 
-- **[META WhatsApp Microservice](https://github.com/Muzzammil-007/meta-whatsapp)**  
+- **[META WhatsApp Microservice](https://github.com/Muzzammil-007/Whatsapp-Chat-Support-Microservice)**  
   _Node.js, TypeScript, REDIS_  
-  Built a microservice bridging META’s Webhook and gRPC endpoints, reducing latency by 30% with REDIS caching.
+  Built a microservice bridging META’s Webhook and gRPC endpoints, reducing latency by 30% with REDIS caching. *(In progress—coming soon!)*
 
 - **[PSO VIBE](https://github.com/Muzzammil-007/pso-vibe)**  
   _Node.js, PostgreSQL, React Native_  
-  Powered an e-commerce app backend, handling 100+ daily transactions with optimized database schemas.
+  Powered an e-commerce app backend, handling 100+ daily transactions with optimized database schemas. *(In progress—coming soon!)*
 
-- **[MILKEA](https://github.com/Muzzammil-007/milkea)**  
+- **[MILKEA](https://github.com/MuhammadKomail/Milkia-Backend)**  
   _Node.js, MySQL, React.js_  
-  Designed a real estate management system with role-based access for builders, dealers, and salespeople.
+  Designed a real estate management system with role-based access for builders, dealers, and salespeople. *(In progress—coming soon!)*
 
 - **[COMMONLY](https://github.com/Muzzammil-007/commonly)**  
   _MERN Stack_  
-  Developed a college application portal, cutting student processing time by 25%.
+  Developed a college application portal, cutting student processing time by 25%. *(In progress—coming soon!)*
 
-- **[Flight Delay Prediction](https://github.com/Muzzammil-007/flight-delay)**  
+- **[Flight Delay Prediction](https://github.com/Muzzammil-007/Flight-Delay-Prediction)**  
   _Python, Pandas, SVR_  
   Created an ML model analyzing 500k flight records to predict delays with Support Vector Regression.
 
@@ -43,8 +43,8 @@ I’m a recent B.S. Computer Science grad from FAST-NU (2024) and an Associate B
 
 ## 📊 GitHub Stats
 
-![Muzammil's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Muzzammil-007&show_icons=true&theme=radical)  
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Muzzammil-007&layout=compact&theme=radical)
+![Muzammil's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Muzzammil-007&show_icons=true&theme=radical&count_private=true&include_all_commits=true&hide_border=true)  
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Muzzammil-007&layout=compact&theme=radical&hide=jupyter%20notebook&langs_count=6&hide_border=true)
 
 ---
 
