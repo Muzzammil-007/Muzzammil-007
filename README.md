@@ -20,7 +20,7 @@ I’m a recent B.S. Computer Science grad from FAST-NU (2024) and an Associate B
   _Node.js, MySQL, React.js_  
   Designed a real estate management system with role-based access for builders, dealers, and salespeople. *(In progress—coming soon!)*
 
-- **[COMMONLY](https://github.com/muhammad-anas17/Final_Year_Project)**  
+- **[COMMONLY](https://github.com/Muzzammil-007/Commonly)**  
   _MERN Stack_  
   Developed a college application portal, cutting student processing time by 25%. *(In progress—coming soon!)*
 
