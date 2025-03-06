@@ -7,22 +7,25 @@ I’m a recent B.S. Computer Science grad from FAST-NU (2024) and an Associate B
 ---
 
 ## 🚀 Featured Projects
+- **[Hybrid-Fintech-Payment-System](https://github.com/Muzzammil-007/Hybrid-Fintech-Payment-System)**  
+  _NestJs, TypeScript, REDIS_ 
+  A payment gateway API microservice built with Node.js that processes mock transactions, authenticates users, and caches data with REDIS. This will later integrate with a Django admin backend.
 
 - **[META WhatsApp Microservice](https://github.com/Muzzammil-007/Whatsapp-Chat-Support-Microservice)**  
   _Node.js, TypeScript, REDIS_  
-  Built a microservice bridging META’s Webhook and gRPC endpoints, reducing latency by 30% with REDIS caching. *(In progress—coming soon!)*
+  Built a microservice bridging META’s Webhook and gRPC endpoints, reducing latency by 30% with REDIS caching. 
 
 - **[PSO VIBE](https://github.com/aeri-q/EC-App_Backend)**  
   _Node.js, PostgreSQL, React Native_  
-  Powered an e-commerce app backend, handling 100+ daily transactions with optimized database schemas. *(In progress—coming soon!)*
+  Powered an e-commerce app backend, handling 100+ daily transactions with optimized database schemas. 
 
 - **[MILKEA](https://github.com/MuhammadKomail/Milkia-Backend)**  
   _Node.js, MySQL, React.js_  
-  Designed a real estate management system with role-based access for builders, dealers, and salespeople. *(In progress—coming soon!)*
+  Designed a real estate management system with role-based access for builders, dealers, and salespeople. 
 
 - **[COMMONLY](https://github.com/Muzzammil-007/Commonly)**  
   _MERN Stack_  
-  Developed a college application portal, cutting student processing time by 25%. *(In progress—coming soon!)*
+  Developed a college application portal, cutting student processing time by 25%. 
 
 - **[Uber Fare Price Prediction](https://github.com/Muzzammil-007/Uber-Fare-Price-Prediction)**  
   _Python, Pandas, SVR_  
