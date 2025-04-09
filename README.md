@@ -9,8 +9,7 @@ I’m a recent B.S. Computer Science grad from FAST-NU (2024) and an Associate B
 ## 🚀 Featured Projects
 - **[Hybrid-Fintech-Payment-System](https://github.com/Muzzammil-007/Hybrid-Fintech-Payment-System)**  
   _NestJs, TypeScript, REDIS_
-
-  A payment gateway API microservice built with Node.js that processes mock transactions, authenticates users, and caches data with REDIS. This will later integrate with a Django admin backend.
+  A hybrid fintech application with a Node.js microservice for payment processing and a Django admin backend for transaction management and reporting.
 
 - **[META WhatsApp Microservice](https://github.com/Muzzammil-007/Whatsapp-Chat-Support-Microservice)**  
   _Node.js, TypeScript, REDIS_  
