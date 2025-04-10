@@ -7,7 +7,7 @@ I’m a recent B.S. Computer Science grad from FAST-NU (2024) and an Associate B
 ---
 
 ## 🚀 Featured Projects
-- **[Hybrid-Fintech-Payment-System](https://github.com/Muzzammil-007/Hybrid-Fintech-Payment-System)**  
+- **[Hybrid-Fintech-Payment-System](https://github.com/Muzzammil-007/Hybrid-Fintech)**  
   _NestJs, TypeScript, REDIS_
   A hybrid fintech application with a Node.js microservice for payment processing and a Django admin backend for transaction management and reporting.
 
